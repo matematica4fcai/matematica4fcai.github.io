@@ -46,11 +46,11 @@
         <p style="margin-bottom: 0.28cm; line-height: 100%; background: #ffffff">
           <font color="#2c3e50"><font face="Helvetica, serif"><font style="font-size: 11pt"
                 size="3">Esta asignatura corresponde al segundo año de
-                Ingeniería Mecánica de la FCAI-UNCuyo y está orientada a profundizar aspectos de
-                Álgebra lineal, al análisis de variable compleja y funciones
+                Ingeniería mecánica y está orientada a profundizar aspectos de
+                Algebra lineal, al análisis de variable compleja y funciones
                 analíticas y su aplicación a la resolución de ecuaciones
-                diferenciales. Se utilizará el programa de Octave/Matlab para resolver problemas simples, 
-					 ver <a href="https://introoctave.github.io">Introducción a Octave</a>. </font></font></font> </p>
+                diferenciales. Se utilizará el programa de <a href="https://introoctave.github.io">Octave/Matlab</a>
+                para resolver problemas simples. </font></font></font> </p>
         <h2 id="fechas-y-horarios">Fechas y Horarios</h2>
         <ul>
         </ul>
